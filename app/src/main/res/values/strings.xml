@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">PaletteBalls</string>
-    <string name="win">You win</string>
+    <string name="app_name">Balls</string>
+    <string name="win">Great!</string>
 </resources>

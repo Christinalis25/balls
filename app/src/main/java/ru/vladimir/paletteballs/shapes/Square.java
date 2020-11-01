@@ -18,7 +18,7 @@ public class Square {
         this.consistent = false;
         this.paint = new Paint();
 
-        paint.setColor(Color.MAGENTA);
+        paint.setColor(Color.BLACK);
 
         this.left = initLeft;
         this.top = initTop;
