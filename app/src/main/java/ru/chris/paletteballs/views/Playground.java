@@ -1,4 +1,4 @@
-package ru.vladimir.paletteballs.views;
+package ru.chris.paletteballs.views;
 
 
 import android.content.Context;
@@ -15,10 +15,10 @@ import android.view.SurfaceView;
 import java.util.ArrayList;
 import java.util.Random;
 
-import ru.vladimir.paletteballs.MainActivity;
-import ru.vladimir.paletteballs.WinActivity;
-import ru.vladimir.paletteballs.shapes.Ball;
-import ru.vladimir.paletteballs.shapes.Square;
+import ru.chris.paletteballs.MainActivity;
+import ru.chris.paletteballs.WinActivity;
+import ru.chris.paletteballs.shapes.Ball;
+import ru.chris.paletteballs.shapes.Square;
 
 public class Playground extends SurfaceView implements SurfaceHolder.Callback {
 

@@ -1,4 +1,4 @@
-package ru.vladimir.paletteballs.shapes;
+package ru.chris.paletteballs.shapes;
 
 
 import android.graphics.Canvas;
@@ -6,7 +6,7 @@ import android.graphics.Paint;
 
 import java.util.Random;
 
-import ru.vladimir.paletteballs.palette.Palette;
+import ru.chris.paletteballs.palette.Palette;
 
 public class Ball {
     private float x;

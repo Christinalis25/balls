@@ -1,10 +1,10 @@
-package ru.vladimir.paletteballs;
+package ru.chris.paletteballs;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import ru.vladimir.paletteballs.views.Playground;
+import ru.chris.paletteballs.views.Playground;
 
 
 public class MainActivity extends AppCompatActivity {

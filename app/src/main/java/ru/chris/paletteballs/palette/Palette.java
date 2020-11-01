@@ -1,4 +1,4 @@
-package ru.vladimir.paletteballs.palette;
+package ru.chris.paletteballs.palette;
 
 import android.graphics.Color;
 

@@ -1,4 +1,4 @@
-package ru.vladimir.paletteballs;
+package ru.chris.paletteballs;
 
 import android.os.Bundle;
 
